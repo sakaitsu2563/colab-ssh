@@ -5,7 +5,9 @@ description = "Add your description here"
 authors = [
     { name = "sakaitsu2563", email = "sakaitsu2563@gmail.com" }
 ]
-dependencies = []
+dependencies = [
+    "cloudflared>=1.0.0.2",
+]
 readme = "README.md"
 requires-python = ">= 3.8"
 
